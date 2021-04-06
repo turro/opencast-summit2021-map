@@ -7,6 +7,6 @@
     {"type": "Feature", "properties": {"institution": "University of Innsbruck"}, "geometry": {"type": "Point", "coordinates": [11.384473309954492,47.26331595]}},
     {"type": "Feature", "properties": {"institution": "Ghent University"}, "geometry": {"type": "Point", "coordinates": [3.713539460060065,51.0250898]}},
     {"type": "Feature", "properties": {"institution": "Loganite"}, "geometry": {"type": "Point", "coordinates": [-106.65606460420399, 52.12475934641253]}},
-    {"type": "Feature", "properties": {"institution": "TU Graz"}, "geometry": {"type": "Point", "coordinates": [47.063825, 15.450251]}}
+    {"type": "Feature", "properties": {"institution": "TU Graz"}, "geometry": {"type": "Point", "coordinates": [15.450251, 47.063825]}}
   ]
 }

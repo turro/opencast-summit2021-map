@@ -15,6 +15,10 @@ To do so, add this object with your data as a new line `features`-list in said f
 Replace `YOUR_INSTITUION` and `[0.0, 0.0]` with your `lon` and `lat` coordinates, respectively, and your good to go.
 
 
+If you have problems with creating a pull request, you can also open an issue instead and include name and location.
+We will pick that up and then add it to the map for you.
+
+
 ### How to get your Coordinates
 
 You can use the tool [nominatim](https://nominatim.openstreetmap.org) to look up an address and get its coordinates.

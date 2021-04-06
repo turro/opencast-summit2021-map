@@ -5,5 +5,6 @@
     {"type": "Feature", "properties": {"institution": "ELAN e.V."}, "geometry": {"type": "Point", "coordinates": [8.221309, 53.146394]}},
     {"type": "Feature", "properties": {"institution": "TU Wien"}, "geometry": {"type": "Point", "coordinates": [16.3689312, 48.1964569]}},
     {"type": "Feature", "properties": {"institution": "University of Innsbruck"}, "geometry": {"type": "Point", "coordinates": [11.384473309954492,47.26331595]}}
+    {"type": "Feature", "properties": {"institution": "Loganite"}, "geometry": {"type": "Point", "coordinates": [52.12475934641253, -106.65606460420399]}}
   ]
 }
